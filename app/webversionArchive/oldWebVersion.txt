@@ -1,0 +1,1 @@
+this is an old protype designed to show the UI of our ideal goal. we won't use this web version anymore, but the UI design is very satifying ,so we store our archive here as a protype . Never refer to this folder because this folder will be deleted sooner or later.
