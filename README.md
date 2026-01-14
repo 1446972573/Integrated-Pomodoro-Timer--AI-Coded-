@@ -20,8 +20,8 @@ Unlike standard timers, this project serves as a **Focus Guidance Tool**. By int
 
 ## 🚀 Core Features (Phase 1) / 核心功能 (第一阶段)
 
-This project is currently in Phase 1 of development.
-本项目目前处于第一阶段开发中。
+This project is currently in Phase 1 of development.We will add more functions laer.
+本项目目前处于第一阶段开发中。后面还会有更多功能。
 
 ### 1. Home: Focus Timer / 主页 - 专注计时器
 *   **Seamless Migration**: Adapted mature UI and interaction logic from proven web-based timers.
@@ -36,14 +36,10 @@ This project is currently in Phase 1 of development.
     *   **界面切换**: 支持通过拖拽手势在主页、播放器和歌单管理界面之间流畅切换。
 
 ### 2. Music Player / 音乐播放器
-*   **Immersive Vinyl UI**: Uses a retro spinning vinyl animation instead of standard cover art to enhance immersion and reduce visual distraction.
-    *   **复古设计**: 使用黑胶 CD 动画代替常规歌曲封面，增强沉浸感。
 *   **Essential Controls**: Play/Pause, Previous/Next, and Shuffle/Sequential play modes.
     *   **精简控制**: 提供播放/暂停、上一首、下一首、随机/顺序播放等核心控制功能。
 *   **Passive Progress**: A non-adjustable progress bar solely for visual reference, preventing "seeking" distractions.
     *   **进度显示**: 提供一个不可调节的进度条，仅用于显示当前歌曲的播放进度。
-*   **Foreground-Only Playback**: Music stops automatically when the app is backgrounded or closed, reinforcing the "stay in the app to stay focused" environment.
-    *   **前台播放**: 音乐仅在应用位于前台时播放，切入后台或关闭应用时自动停止，以保证专注环境。
 
 ### 3. Playlist & Music Management / 歌单与歌曲管理
 A robust module with deep backend logic for managing local music assets.
@@ -95,9 +91,9 @@ The project utilizes a modern Android development stack, leveraging **Jetpack Co
 
 ## 🎯 Development Goals (Phase 1) / 第一阶段开发目标
 
-The core objective of this phase is to fully implement the features listed above. We have chosen to **refactor** the project to utilize a cleaner architecture and modern components, simplifying the development process and avoiding legacy issues with component linking and data passing.
+We have a web prototype created using Google AI Studio, and this project involves migrating and refactoring it.The core objective of this phase is to fully implement the features listed above. We have chosen to **refactor** the project to utilize a cleaner architecture and modern components, simplifying the development process and avoiding legacy issues with component linking and data passing.
 
-此阶段的核心目标是完整实现上述所有功能。我们选择重构项目，旨在利用更简洁的架构和现成的组件来简化开发流程，规避此前在原生组件开发中遇到的传递和链接问题。
+我们有一个使用google ai studio创建的web端原型，该项目在此基础上进行迁移和重构。此阶段的核心目标是完整实现上述所有功能。我们选择重构项目，旨在利用更简洁的架构和现成的组件来简化开发流程，规避此前在原生组件开发中遇到的传递和链接问题。
 
 ---
 
