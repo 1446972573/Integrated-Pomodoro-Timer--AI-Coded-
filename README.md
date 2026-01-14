@@ -119,4 +119,4 @@ This project is based on unique "Soft Constraints" and "Razor Principles" design
 *   **商业使用**：任何形式的商业用途（包括但不限于上架应用商店收费、植入广告、集成到商业软件中），**请务必提前联系作者获得授权或告知**。我们乐见好软件的诞生，但反对任何未经许可的理念剽窃或简单的换皮牟利行为。
 
 ---
-*Created by [Your Name/Handle] with Google Gemini Agent.*
+*Created by 1446972573 with Google Gemini Agent.*
