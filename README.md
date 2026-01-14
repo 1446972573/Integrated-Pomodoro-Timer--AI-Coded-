@@ -24,14 +24,12 @@ This project is currently in Phase 1 of development.We will add more functions l
 本项目目前处于第一阶段开发中。后面还会有更多功能。
 
 ### 1. Home: Focus Timer / 主页 - 专注计时器
-*   **Seamless Migration**: Adapted mature UI and interaction logic from proven web-based timers.
-    *   **完美迁移**: 从 Web 端迁移成熟的计时器 UI 和交互逻辑。
-*   **Fluid Animations**: Features refined slider effects and UI animations for excellent visual feedback.
-    *   **流畅动画**: 包含精致的滑块效果、UI 动画，提供优秀的视觉反馈。
+*   **Migration**: Adapted mature UI and interaction logic from proven web-based timers.
+    *   **迁移**: 从 Web 端迁移成熟的计时器 UI 和交互逻辑。
+*   **Animations**: Features refined slider effects and UI animations for  visual feedback.
+    *   **动画**: 包含的滑块效果、UI 动画，提供基础的视觉反馈。
 *   **Complete Control**: Full timer functionality including Start, Pause, Resume, and Stop.
     *   **完整控制**: 实现开始、暂停、继续、停止等全功能计时控制。
-*   **Contextual Guidance**: Smart pop-ups at key intervals to guide user actions.
-    *   **智能弹窗**: 在关键节点提供合适的弹窗提示，引导用户操作。
 *   **Gesture Navigation**: Smoothly switch between Home, Player, and Playlist interfaces via drag gestures.
     *   **界面切换**: 支持通过拖拽手势在主页、播放器和歌单管理界面之间流畅切换。
 
@@ -58,7 +56,7 @@ A robust module with deep backend logic for managing local music assets.
 
 *   **Library Management / 歌曲库管理**:
     *   **Auto-Filter**: Automatically scans and filters local audio files (duration between 30s - 1 hour). (可用歌曲筛选)
-    *   **Built-in Assets**: Option to enable/disable bundled ambient music. (内置音乐开关)
+    *   **Built-in Assets**: Option to enable/disable bundled ambient music. (内置音乐开关)（tips: Built-in Assets haven't finished yet.内置音乐还没做完）
     *   **Manual Refresh**: Re-scan storage for new compatible files. (刷新列表)
 
 *   **Data Persistence & Robustness / 数据持久化与健壮性**:
@@ -109,7 +107,7 @@ This project is based on unique "Soft Constraints" and "Razor Principles" design
 *   **Commercial Use**: Any form of commercial use (including but not limited to App Store monetization, ads, or integration into proprietary software) **requires prior contact and authorization from the author**. We welcome good software, but we oppose idea plagiarism or simple "reskinning" for profit without permission.
 
 **关于产品理念与商用声明：**
-本项目基于独特的“软约束”与“剃刀原则”设计，旨在提供纯净的专注体验。虽然代码由 AI 辅助生成，但**核心的产品逻辑、交互设计及“功能缝合”的思路属于作者原创的科研探索成果。**
+本项目基于独特的“软约束”与“剃刀原则”设计，旨在提供纯净的专注体验。虽然代码由 AI 辅助生成，但**核心的产品逻辑、交互设计及“功能缝合”的思路属于作者原创的思维和成果。**
 
 *   **非商用/学习/开源贡献**：欢迎 Fork 和学习，请遵守 GPLv3 协议（保持开源）。
 *   **商业使用**：任何形式的商业用途（包括但不限于上架应用商店收费、植入广告、集成到商业软件中），**请务必提前联系作者获得授权或告知**。我们乐见好软件的诞生，但反对任何未经许可的理念剽窃或简单的换皮牟利行为。
