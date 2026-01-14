@@ -56,7 +56,8 @@ A robust module with deep backend logic for managing local music assets.
 
 *   **Library Management / 歌曲库管理**:
     *   **Auto-Filter**: Automatically scans and filters local audio files (duration between 30s - 1 hour). (可用歌曲筛选)
-    *   **Built-in Assets**: Option to enable/disable bundled ambient music. (内置音乐开关)（tips: Built-in Assets haven't finished yet.内置音乐还没做完）
+    *   **Built-in Assets**: Option to enable/disable bundled ambient music. (内置音乐开关)
+		（tips: Built-in Assets haven't finished yet.内置音乐还没做完）
     *   **Manual Refresh**: Re-scan storage for new compatible files. (刷新列表)
 
 *   **Data Persistence & Robustness / 数据持久化与健壮性**:
