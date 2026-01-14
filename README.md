@@ -12,10 +12,13 @@
 
 Unlike standard timers, this project serves as a **Focus Guidance Tool**. By integrating a mature timer design with a specialized local music player, it creates an immersive environment for work and study. The core philosophy uses minimalist design and fluid interactions to naturally reduce the user's dependency on their device, effectively "filtering" digital noise.
 
+Currently, as the first phase, the software's functions are music playback and timing. In the second phase we will add a feature to view photos from the past 24 hours, and we plan to add a camera module in phase 3.
+
 **全新番茄钟 (Integrated Pomodoro)** 是一个创新的应用，旨在通过独特的负反馈和心理暗示机制，帮助用户减少手机干扰，提升专注度。
 
 本项目不仅是一个计时器，更是一个**专注力引导工具**。它借鉴了 Web 端已有的成熟设计，并结合了本地音乐播放功能，为用户创造一个沉浸式的工作和学习环境。应用的核心理念是通过简约的设计和流畅的交互，让用户能够自然地减少对手机的依赖。
 
+当前作为第一阶段，该软件的功能为音乐播放和计时，我们将在第二阶段加入查看24小时内的照片功能，计划在第3阶段加入相机模块。
 ---
 
 ## 🚀 Core Features (Phase 1) / 核心功能 (第一阶段)
